@@ -2,16 +2,16 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Mohamed Irfan Mohamed Niyaz
+- **CCID:** mmohame6
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+ChatGPT
+StackOverflow
 
 ## Verbal Collaboration
 
-| Student Name | CCID      |
-| ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| Student Name             | CCID     |
+| ------------------------ | -------- |
+| Abhishekh Jayaprakash    | ajayapra |

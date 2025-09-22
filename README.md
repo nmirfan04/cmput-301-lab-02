@@ -7,8 +7,8 @@
 
 ## References and Resources
 
-- ChatGPT
-- StackOverflow
+- ChatGPT - Used ChatGPT to get the idea of using setOnItemClickListener, View.setVisibility(), and EditText interface.
+- StackOverflow - Using .getText().toString() in confirmCity.setOnClickListener
 
 ## Verbal Collaboration
 

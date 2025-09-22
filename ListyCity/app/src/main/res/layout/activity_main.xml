@@ -43,6 +43,9 @@
         android:orientation="horizontal"
         android:visibility="gone">
 
+        <!-- The idea of using EditText is from OpenAI, ChatGPT, 
+        "what can i use in xml to get input text that the user can type in an android app", 2025-09-09 -->
+        
         <EditText
             android:id="@+id/enter_city"
             android:layout_width="0dp"
